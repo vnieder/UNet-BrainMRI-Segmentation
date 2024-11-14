@@ -52,28 +52,4 @@ https://arxiv.org/abs/1505.04597
 ---
 
 ## Project Structure
-UNet_Project/
-
-├── dataset/
-
-├── results/
-
-├── src/
-
-    │├── criterion   # Loss function    
-
-    │├── dataloader  # Data preparation    
-
-    │├── model   # Model architecture   
-
-    │├── test    # Testing tools      
-
-    │├── training    # Training procedure (Training loop, optimizer, scheduler)
-
-    │└── viz    # Visualization
-
-├── UNet_Project_Description.ipynb
-
-├── requirements.txt
-
-└── README.md
+Project/ ├── dataset/ # Dataset files ├── results/ # Results output directory ├── src/ # Source code │ ├── criterion/ # Loss function │ ├── dataloader/ # Data preparation │ ├── model/ # Model architecture │ ├── test/ # Testing tools │ ├── training/ # Training procedure (training loop, optimizer, scheduler) │ └── viz/ # Visualization tools ├── UNet_Project_Description.ipynb # Project description notebook ├── requirements.txt # Python dependencies └── README.md # Project README
