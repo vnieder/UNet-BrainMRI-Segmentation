@@ -60,17 +60,17 @@ UNet_Project/
 
 ├── src/
 
-│   ├── criterion   # Loss function    
+    │├── criterion   # Loss function    
 
-│   ├── dataloader  # Data preparation    
+    │├── dataloader  # Data preparation    
 
-│   ├── model   # Model architecture   
+    │├── model   # Model architecture   
 
-│   ├── test    # Testing tools      
+    │├── test    # Testing tools      
 
-│   ├── training    # Training procedure (Training loop, optimizer, scheduler)
+    │├── training    # Training procedure (Training loop, optimizer, scheduler)
 
-│   └── viz    # Visualization
+    │└── viz    # Visualization
 
 ├── UNet_Project_Description.ipynb
 
