@@ -9,6 +9,7 @@ scikit-learn==1.5.1
 
 # Optional: Image processing and augmentation
 opencv==4.10.0
+pycocotools==2.0.8
 
 # Optional: Jupyter Notebook support
 jupyter==1.0.0
