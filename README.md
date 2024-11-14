@@ -24,7 +24,7 @@ cd UNet_Project
 pip install -r requirements.txt
 ```
 
-If developing on Google Colab or Kaggle notebook, most core dependencies should already be installed. Install additional dependencies like this,
+If developing on Google Colab or Kaggle notebook, most core dependencies should already be installed. Install additional dependencies via pip.
 ```python
 !pip install tqdm
 ```
@@ -52,7 +52,7 @@ https://arxiv.org/abs/1505.04597
 ---
 
 ## Project Structure
-unet-segmentation/
+UNet_Project/
 ├── dataset/
 ├── results/
 ├── src/
