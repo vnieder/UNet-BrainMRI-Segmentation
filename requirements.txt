@@ -1,0 +1,18 @@
+# Core dependencies
+numpy==1.26.4
+scipy==1.13.1
+matplotlib==3.9.2
+
+# Deep learning framework
+tensorflow==2.17.0
+scikit-learn==1.5.1
+
+# Optional: Image processing and augmentation
+opencv==4.10.0
+
+# Optional: Jupyter Notebook support
+jupyter==1.0.0
+ipython==8.27.0
+
+#Utilities
+tqdm==4.66.5
