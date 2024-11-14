@@ -54,7 +54,6 @@ https://arxiv.org/abs/1505.04597
 ## Project Directory Structure
 ```
 UNet_Project/  
- 
 ├── src/ # Source code 
 │ ├── criterion/ # Loss function 
 │ ├── dataloader/ # Data preparation 
