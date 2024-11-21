@@ -8,7 +8,7 @@ tensorflow==2.17.0
 scikit-learn==1.5.1
 
 # Optional: Image processing and augmentation
-opencv==4.10.0
+opencv-python==4.10.0.84 # Switch to opencv-python to resolve installation issue
 pycocotools==2.0.8
 
 # Optional: Jupyter Notebook support
