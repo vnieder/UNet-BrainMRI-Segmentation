@@ -1,2 +1,6 @@
-# Ignore python venv
+# Ignore python venv, cache, and local data
 /venv
+brain_tumor_dataset
+__pycache__/
+training_logs.csv
+unet_model_best.weights.h5
