@@ -10,7 +10,7 @@ from src.viz.viz import DataVisualization
 INPUT_SIZE = 256
 BASE_FILTERS = 64
 LEARNING_RATE = 1e-4
-EPOCHS = 1
+EPOCHS = 50
 BATCH_SIZE = 16
 DROPOUT_RATE = 0.3
 DECAY_RATE = 0.9
