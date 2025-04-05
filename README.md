@@ -80,7 +80,9 @@ Loss = 0.4 * Binary Cross Entropy + 0.4 * Dice Loss + 0.2 * IoU Loss
 
 Final test accuracy: **98.37%**
 
-[TODO: add pictures here]
+![Results](images/prediction_1.png)
+![Results](images/prediction_2.png)
+![Results](images/prediction_3.png)
 
 ---
 
