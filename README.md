@@ -84,7 +84,9 @@ Final test accuracy: **98.37%**
 ![Results](images/prediction_2.png)
 ![Results](images/prediction_3.png)
 
-See project presentation: [![View Presentation](https://img.shields.io/badge/View-Presentation-blue?style=flat&logo=adobeacrobatreader)](images/MRI_Segmentation_Presentation.pdf)
+See project presentation:
+
+[![View Presentation](https://img.shields.io/badge/View-Presentation-blue?style=flat&logo=adobeacrobatreader)](images/MRI_Segmentation_Presentation.pdf)
 
 ---
 
