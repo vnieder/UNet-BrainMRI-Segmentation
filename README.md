@@ -53,7 +53,7 @@ Annotations are in **COCO format**. The preprocessing pipeline (see dataloader.p
 
 Original UNet architecture paper: https://arxiv.org/pdf/1505.04597
 
-     ![UNet Architecture](images/UNet_Model.jpg)
+![UNet Architecture](images/UNet_Model.jpg)
 
 In short, UNet consists of two main paths:
 
@@ -65,8 +65,8 @@ These two paths are followed by a final layer of 1x1 convolutions with a sigmoid
 
 ### Improvements to Base UNet
 
-- Dropout layers to reduce overfitting
-- Batch Normalization to stabilize and accelerate training
+- **Dropout layers** to reduce overfitting
+- **Batch Normalization** to stabilize and accelerate training
 
 ### Loss Function (weighted composite)
 
