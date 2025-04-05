@@ -53,7 +53,7 @@ Annotations are in **COCO format**. The preprocessing pipeline (see dataloader.p
 
 Original UNet architecture paper: https://arxiv.org/pdf/1505.04597
 
-![UNet Architecture](images/UNet_Model.jpg)
+![UNet Architecture](images/UNet_Model.png)
 
 In short, UNet consists of two main paths:
 
